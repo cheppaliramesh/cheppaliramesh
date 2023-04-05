@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cheppaliramesh
-- 👀 I’m interested in c++ thermodynamics
-- 🌱 I’m currently learning ...implementation of thermodynamic models in c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DataScience and Machine Learning
+- 🌱 I’m currently learning ...Machine learning Models application to  Process Engineering
+- 💞️ I’m looking to collaborate on ..Datascience and ML Projects
 - 📫 How to reach me ...9910868887
 - 
 
